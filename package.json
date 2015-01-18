@@ -1,0 +1,9 @@
+{
+  "name": "Dart Game",
+  "version": "0.0.1",
+  "description": "A game made in Dart",
+  "main": "app.js",
+  "author": "Brendan Hansen",
+  "license": "MIT",
+  "dependencies": {}
+}
