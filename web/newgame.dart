@@ -11,7 +11,6 @@ class Main {
         Screen.setSize(800, 600);
         Screen.clear("blue");
         Screen.rectFill(100, 200, 50, 40, "red");
-        Screen.rectFill(400, 300, 50, 40, "red");
     }
 }
 
