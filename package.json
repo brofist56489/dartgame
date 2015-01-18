@@ -1,9 +1,11 @@
 {
-  "name": "Dart Game",
+  "name": "DartGame",
   "version": "0.0.1",
   "description": "A game made in Dart",
   "main": "app.js",
   "author": "Brendan Hansen",
   "license": "MIT",
-  "dependencies": {}
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
